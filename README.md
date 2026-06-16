@@ -1,4 +1,4 @@
-# Microsoft (MSFT) Stock Price Prediction
+# Microsoft Stock Price Prediction
 
 A machine learning project that predicts Microsoft (MSFT) stock prices using historical market data. The project includes data preprocessing, model training, prediction generation, and visualization of actual versus predicted stock prices.
 
